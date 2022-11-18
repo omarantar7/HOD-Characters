@@ -1,0 +1,11 @@
+.list{
+    padding: 2rem 1rem;
+    font-size: 1rem;
+    list-style: none;
+    margin: 1rem ;
+}
+.list h3{
+    margin-bottom: 1rem;
+    border-bottom: 2px dashed #8a2b06;
+    max-width: 60%;
+}

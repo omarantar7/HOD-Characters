@@ -1,0 +1,31 @@
+.big{
+    margin-top:30rem;
+}
+.head{
+    text-align: center;
+    margin: auto;
+    background-color: #4f005f;
+    border-radius: 20px;
+    padding: 1rem 2rem;
+    max-width: 30rem;;
+}
+.colomn{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    grid-gap: 50px;
+    margin-bottom: 1.5rem;
+}
+@media(max-width:905px){
+    .colomn{
+        grid-template-columns: 1fr;
+    }
+}
+.spaceup{
+    max-width: 72.6%;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    margin-bottom: 10rem;
+}
+@media (max-width:450px){
+  .spaceup{max-width:87%;
+}}

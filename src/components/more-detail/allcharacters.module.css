@@ -1,0 +1,25 @@
+.close{
+    position: relative;
+    max-width: 1%;
+    left: 72rem;
+    cursor: pointer;
+}
+.characters{
+    margin: 0;
+    padding: 0;
+    max-height: 34rem;
+    overflow:scroll;
+    max-height: 95vh;
+}
+.one{
+    display: flex;
+}
+.one img{
+    max-width: 30%;
+    height: 40%;
+}
+@media (max-width:450px){
+    .close{
+        left:70%;
+    }
+}

@@ -1,0 +1,30 @@
+
+.banner{
+    position: relative;
+    top: 9rem;
+    left: 5%;
+    display: flex;
+    max-width: 30%;
+    align-items: right;
+    flex-direction: column;
+}
+.banner h2{
+    border-radius: 8px;
+    padding: 12px 24px;
+    font-size: 24px;
+}
+.banner p{
+    font-size: 16px;
+ 
+    margin: 2rem 0;
+}
+
+.banner .button{
+    max-width: 10rem;
+}
+@media (max-width:400px){
+    .banner{
+        max-width: 80%;
+        align-items: center;
+    }
+}

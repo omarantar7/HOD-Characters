@@ -1,0 +1,13 @@
+.Card {
+    background-color: #eee;
+    color: black;
+    max-width: 70%;
+    margin: 0 auto;
+    padding: 3rem 1rem;
+    border-radius: 14px ;
+}
+@media(max-width:450px){
+    .Card{
+        padding: 2rem 0;
+    }
+}

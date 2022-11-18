@@ -1,0 +1,26 @@
+.items{
+    border-bottom: 2px dashed #333;
+}
+.items h2{
+    color: #ad5502;
+    margin-bottom: 1rem;
+}
+.items p{
+    margin: 1rem 0;
+}
+.items img{
+    border-radius: 14px;
+}
+.items .button{
+    display: flex;
+    margin-bottom: 0.5rem;
+}
+@media (max-width:900px) {
+    items{
+        width: 50%;
+        height: 50%;
+    }
+}
+.spaceup{
+    margin-top: 10rem ;
+}

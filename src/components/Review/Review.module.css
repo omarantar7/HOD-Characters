@@ -1,0 +1,31 @@
+.space{
+    margin-bottom: 2rem;
+}
+.loading{
+    text-align: center;
+    letter-spacing: 0.5rem;
+    background-color: brown;
+    color: #eee;
+    border-radius: 14px;
+    max-width: 40%;
+    margin-left: 30%;
+}
+.error{
+    text-align: center;
+    background-color: brown;
+    color: #eee;
+    border-radius: 14px;
+    max-width: 30%;
+    margin-left: 35%;
+}
+
+@media (max-width:450px){
+    .error{
+        max-width: 60%;
+        margin-left: 20%;
+    }
+    .loading{
+        max-width: 60%;
+        margin-left: 20%;
+    }
+}
