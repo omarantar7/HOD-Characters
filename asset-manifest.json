@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/HOD-Characters/static/css/main.9f48bc4e.css",
+    "main.js": "/HOD-Characters/static/js/main.95fad921.js",
+    "static/js/787.2726c4d0.chunk.js": "/HOD-Characters/static/js/787.2726c4d0.chunk.js",
+    "static/media/dragEgg.jpg": "/HOD-Characters/static/media/dragEgg.e4f285c49c6d14f82ee1.jpg",
+    "static/media/DaemonTargaryen.jpg": "/HOD-Characters/static/media/DaemonTargaryen.2eb258a902c328e8a83d.jpg",
+    "static/media/OttoHightower.jpg": "/HOD-Characters/static/media/OttoHightower.0fa7432316c263437919.jpg",
+    "static/media/SerCristonCole.jpg": "/HOD-Characters/static/media/SerCristonCole.e688d729f41cf14860da.jpg",
+    "static/media/CorlysVelaryon.jpg": "/HOD-Characters/static/media/CorlysVelaryon.d8f957f92438e5913688.jpg",
+    "static/media/ViserysTargaryen.jpg": "/HOD-Characters/static/media/ViserysTargaryen.c38266a5ff295e5dfc98.jpg",
+    "static/media/Rhaenyra.jpg": "/HOD-Characters/static/media/Rhaenyra.5d69403352b26acfe315.jpg",
+    "static/media/RhaenysTargaryen.jpg": "/HOD-Characters/static/media/RhaenysTargaryen.b19246ec783c3cae83f8.jpg",
+    "static/media/alicent.jpg": "/HOD-Characters/static/media/alicent.5622720393425a4f9eb4.jpg",
+    "static/media/Mysaria.jpg": "/HOD-Characters/static/media/Mysaria.1603d973447a0b4e8001.jpg",
+    "static/media/header.jpg": "/HOD-Characters/static/media/header.f09386527e4d24fa06c7.jpg",
+    "index.html": "/HOD-Characters/index.html",
+    "main.9f48bc4e.css.map": "/HOD-Characters/static/css/main.9f48bc4e.css.map",
+    "main.95fad921.js.map": "/HOD-Characters/static/js/main.95fad921.js.map",
+    "787.2726c4d0.chunk.js.map": "/HOD-Characters/static/js/787.2726c4d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f48bc4e.css",
+    "static/js/main.95fad921.js"
+  ]
+}
