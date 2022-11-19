@@ -40,37 +40,6 @@
     animation-iteration-count:infinite;
     cursor: pointer;
   }
- @media (max-width:450px){
-  .heart{
-    left: -7rem;
-  }
- }
-  .heart:after {
-    background-color: transparent;
-    border: 2px solid #eee;
-    border-left: 0;
-    border-bottom: 0;
-    content: "";
-    border-radius: 50%;
-    position: absolute;
-    width: 25px;
-    height: 25px;
-    top: 0px;
-    left: 15px;
-  }
-  .heart:before {
-    background-color: transparent;
-    border: 2px solid #eee;
-    border-left: 0;
-    border-bottom: 0;
-    content: "";
-    border-radius: 50%;
-    position: absolute;
-    width: 25px;
-    height: 25px;
-    top: -15px;
-    left: 0px;
-  }
 
   @keyframes beat {
     0% {
